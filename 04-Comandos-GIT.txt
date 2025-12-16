@@ -10,4 +10,6 @@ subimos los cambios a github con
 despues de subir todo, modificamos y creamos archivos, los añadimos con git add 
 y luego con git commit -m "msj"
 
+git fetch, se descarga el historial sin los cambios
 
+git pull: se descargar el historial y tambien los cambios
