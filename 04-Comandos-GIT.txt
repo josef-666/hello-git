@@ -7,4 +7,7 @@ que empareja el proyecto local hacia github
 subimos los cambios a github con
     git remote add origin https://github.com/josef-666/hello-git.git
 
+despues de subir todo, modificamos y creamos archivos, los añadimos con git add 
+y luego con git commit -m "msj"
+
 
