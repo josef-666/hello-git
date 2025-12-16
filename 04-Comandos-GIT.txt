@@ -1,0 +1,4 @@
+# GIT REMOTE
+despues de crear el repo en github ponemos dentro de la ruta del proyecto:
+    git remote add origin https://github.com/josef-666/hello-git.git 
+que empareja el proyecto local hacia github
