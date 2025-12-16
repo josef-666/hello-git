@@ -13,3 +13,5 @@ y luego con git commit -m "msj"
 git fetch, se descarga el historial sin los cambios
 
 git pull: se descargar el historial y tambien los cambios
+
+git push: sube los cambios al repo en github
