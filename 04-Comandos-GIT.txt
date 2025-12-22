@@ -12,6 +12,22 @@ y luego con git commit -m "msj"
 
 git fetch, se descarga el historial sin los cambios
 
-git pull: se descargar el historial y tambien los cambios
+git config pull.rabase false: primero se usa este comando para traer los cambios del repo remoto
+                                al local
+
+git pull origin main: se descargar el historial y tambien los cambios
 
 git push: sube los cambios al repo en github
+
+
+--------------------------------------------------------------------
+clonar con git clone git@github.com:josef-666/hello-git.git
+
+Luego hacers un fork de mourdeved, y descargamos el proyecto en nuestra pagina para añadir
+archivos.
+Modificamos hello.md, añadi mi user e hice git push lo cual se re reflejado en mi repo, no el de
+mouredev
+
+
+
+
